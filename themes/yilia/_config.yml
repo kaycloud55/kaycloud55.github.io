@@ -6,11 +6,11 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
+  # github: "#"
   # weibo: "#"
-  rss: "#"
-  zhihu: "#"
-  #qq: "#"
+  # rss: "#"
+  # zhihu: "#"
+  qq: "#857493018"
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
@@ -43,7 +43,7 @@ open_in_new: false
 
 # 打赏
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 1
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: https://pic1.zhimg.com/v2-c2a29bd02de0507b452c1b79deac21fc_r.jpg
+avatar: https://imghost-1258166750.cos.ap-guangzhou.myqcloud.com/img/爱上这座城.png
 
 #是否开启分享
 share_jia: true
