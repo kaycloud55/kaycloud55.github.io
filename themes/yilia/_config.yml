@@ -7,7 +7,7 @@ menu:
 # SubNav
 subnav:
   github: "#"
-  weibo: "#"
+  # weibo: "#"
   rss: "#"
   zhihu: "#"
   #qq: "#"
@@ -17,7 +17,7 @@ subnav:
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:jiangyk55@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: https://pic1.zhimg.com/v2-c2a29bd02de0507b452c1b79deac21fc_r.jpg
 
 #是否开启分享
 share_jia: true
@@ -102,7 +102,7 @@ style:
   # 头像上面的背景颜色
   header: '#4d4d4d'
   # 右滑板块背景
-  slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
+  slider: 'linear-gradient(200deg,#134E5E,#71B280)'
 
 # slider的设置
 slider:
@@ -120,11 +120,11 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  # 友情链接1: http://localhost:4000/
+  # 友情链接2: http://localhost:4000/
+  # 友情链接3: http://localhost:4000/
+  # 友情链接4: http://localhost:4000/
+  # 友情链接5: http://localhost:4000/
+  # 友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 余生皆尽欢<br>山川岁月长
