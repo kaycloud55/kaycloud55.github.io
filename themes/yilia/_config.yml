@@ -65,7 +65,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: https://imghost-1258166750.cos.ap-guangzhou.myqcloud.com/img/爱上这座城.png
 
 #你的头像url
 avatar: https://imghost-1258166750.cos.ap-guangzhou.myqcloud.com/img/爱上这座城.png
